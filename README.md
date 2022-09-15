@@ -3,4 +3,4 @@ Primeiro Perfil Social
 
 
 
-socialtree-igoraraujo.netlify.app
+https://socialtree-igoraraujo.netlify.app/
